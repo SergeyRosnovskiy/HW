@@ -61,6 +61,7 @@ public class Main {
         } else {
             System.out.println("Count 5");
         }
+        System.out.println();
     }
 
 }
